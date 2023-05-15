@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\bin\Debug\DesafioBaralhoCartas.exe.config
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\bin\Debug\DesafioBaralhoCartas.exe
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\bin\Debug\DesafioBaralhoCartas.pdb
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\obj\Debug\DesafioBaralhoCartas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\obj\Debug\DesafioBaralhoCartas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\obj\Debug\DesafioBaralhoCartas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\obj\Debug\DesafioBaralhoCartas.exe
+C:\Users\User\source\repos\DesafioBaralhoCartas\DesafioBaralhoCartas\obj\Debug\DesafioBaralhoCartas.pdb
